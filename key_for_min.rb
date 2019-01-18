@@ -3,8 +3,7 @@
 
 def key_for_min_value(name_hash)
   lowest_key == NIL
-    return NIL
-#  else
-#    name_hash.collect do |key, value|
+  lowest_value == NIL
+  name_hash.collect do |key, value|
   end    
 end
